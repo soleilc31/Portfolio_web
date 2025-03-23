@@ -10,3 +10,5 @@ Welcome to Judy porf's documentation!
    :maxdepth: 2
 
    ./infor/Cover
+   ./infor/about
+   ./infor/Painting
