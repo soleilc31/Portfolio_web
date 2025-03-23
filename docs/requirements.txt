@@ -1,4 +1,3 @@
-sphinx
 lutra
 
 alabaster==0.7.12
