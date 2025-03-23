@@ -12,3 +12,4 @@ Welcome to Judy porf's documentation!
    ./infor/Cover
    ./infor/about
    ./infor/Painting
+   ./infor/Other
