@@ -5,6 +5,8 @@
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
+from recommonmark.parser import CommonMarkParser
+from recommonmark.transform import AutoStructify
 
 project = 'Portfolio Of Judy'
 copyright = '2025, CHENG TSZ CHUNG'
